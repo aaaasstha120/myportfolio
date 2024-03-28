@@ -9,7 +9,7 @@ export const Bio = {
     "As a motivated and detail-oriented student, I am actively seeking challenging internship opportunities that will allow me to apply my technical skills and knowledge in a real-world setting. With a strong educational background , I am eager to contribute my problem-solving abilities and passion for innovation to a dynamic team. I am excited to embark on a journey of professional growth and contribute to projects that make a positive impact.",
   github: "https://github.com/aaaasstha120",
   resume:
-    "https://drive.google.com/drive/folders/1kZ_ylajdMl6Q1-uwyHaVzEMgOi5o7bgc",
+    "Astha-Singh-Resume.pdf",
   linkedin: "https://www.linkedin.com/in/astha-singh-520b5a283/",
 };
 
