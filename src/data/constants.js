@@ -9,7 +9,7 @@ export const Bio = {
     "As a motivated and detail-oriented student, I am actively seeking challenging internship opportunities that will allow me to apply my technical skills and knowledge in a real-world setting. With a strong educational background , I am eager to contribute my problem-solving abilities and passion for innovation to a dynamic team. I am excited to embark on a journey of professional growth and contribute to projects that make a positive impact.",
   github: "https://github.com/aaaasstha120",
   resume:
-    "Astha-Singh-Resume.pdf",
+    "Asthas-Resume.pdf",
   linkedin: "https://www.linkedin.com/in/astha-singh-520b5a283/",
 };
 
@@ -152,7 +152,7 @@ export const projects = [
   {
     id: 11,
     title: "PolyTalks Unlocking Languages, Connecting Worlds ",
-    img:"/language.jpg",
+    img:"/poly landing.jpeg",
     date: "15 August 2023- 15 December 2023",
     description:
       "PolyTalks is an innovative online platform designed to break down language barriers and foster cultural exchange worldwide. With a mission to facilitate language learning and connection between people from diverse backgrounds, PolyTalks offers a comprehensive suite of features and resources for language enthusiasts of all levels.",
@@ -170,7 +170,7 @@ export const projects = [
   {
     id: 9,
     title: "E-commerce website(Pilgrim clone)",
-    img:"/pilgrim.jpg",
+    img:"/pilgrim landing.jpeg",
     date: "April 2023 - June 2023",
     description:
       "Pilgrim is a premier destination for all things beauty and wellness. Inspired by the renowned Pilgrim Cosmetics brand, our e-commerce website offers a curated selection of high-quality skincare, makeup, and wellness products to help you look and feel your best.",
@@ -185,7 +185,7 @@ export const projects = [
   {
     id: 0,
     title: "To Infinity and Beyond (Planetary Tourism Website)",
-    img:"/planet.jpg",
+    img:"/planet landing.jpeg",
     date: "October 2023",
     description:
       "To Infinity And Beyond is a user-friendly online platform designed to provide an immersive experience for users interested in exploring the planets of our solar system. Leveraging the power of React-three-fiber and three.js, the website offers a visually stunning and interactive environment.",
